@@ -1,4 +1,4 @@
-#Ivan CArrillo Solache-Portfolio
+#Ivan Carrillo Solache-Portfolio
 
 This project was created in Webflow (CMS Development) and exported the code into a github repository
 
